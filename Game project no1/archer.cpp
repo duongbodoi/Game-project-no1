@@ -227,3 +227,4 @@ void arrow::show(SDL_Renderer* des) {
 
 }
 // push n01;
+// reruteb
